@@ -15,3 +15,12 @@ This is a practice workbook to get familiar with basic Machine Learning.
 8. Apply MinMaxScaler() and StandardScaler() to the following features: calories, protien, fat, sodium, fiber, carbo, sugars.
 9. Does the standard or min-max scaling make a difference in value distribution? Support your answers with some visualisations on the above dataset.
 10. As an extension of 7th step, Generate a new Pandas DataFrame with the following columns based on the Training Dataset: Split Ratio | Random State | Total Number of Entries | Count of Kellogg's | Count of Nestle | Count of Other Brands
+
+
+### References to understand concepts:
+- Q3: https://www.kite.com/python/answers/how-to-replace-column-values-in-a-pandas-dataframe-in-python
+- Q4: https://www.geeksforgeeks.org/seaborn-barplot-method-in-python/
+- Q5: https://www.javatpoint.com/pandas-dataframe-describe, https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/, https://www.geeksforgeeks.org/box-plot-visualization-with-pandas-and-seaborn/
+- Q6: https://www.geeksforgeeks.org/matplotlib-pyplot-hist-in-python, https://www.geeksforgeeks.org/how-to-make-histograms-with-density-plots-with-seaborn-histplot/
+- Q7: Refer sklearn.datasets.train_test_split
+- Q8: https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
